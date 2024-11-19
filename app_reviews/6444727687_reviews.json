@@ -1,0 +1,39 @@
+{
+  "appId": "6444727687",
+  "reviewCount": 3,
+  "reviews": [
+    {
+      "id": "11870386086",
+      "userName": "Dreamy68",
+      "userUrl": "https://itunes.apple.com/us/reviews/id493359382",
+      "version": "3.27.9",
+      "score": 1,
+      "title": "The worst service",
+      "text": "This is the worst transportation service. The dispatchers are rude, they lie, and always say it’s the customers fault. \nDon’t bother with this. They’re also the most unreliable dispatchers and drivers. \nStay with uber…",
+      "url": "https://itunes.apple.com/us/review?id=6444727687&type=Purple%20Software",
+      "updated": "2024-10-24T11:21:54-07:00"
+    },
+    {
+      "id": "11278158393",
+      "userName": "Paul Rocker",
+      "userUrl": "https://itunes.apple.com/us/reviews/id1112802161",
+      "version": "3.24.54",
+      "score": 1,
+      "title": "What’s the point?",
+      "text": "No rides available even for future.",
+      "url": "https://itunes.apple.com/us/review?id=6444727687&type=Purple%20Software",
+      "updated": "2024-05-17T14:39:44-07:00"
+    },
+    {
+      "id": "11236203710",
+      "userName": "HI powered",
+      "userUrl": "https://itunes.apple.com/us/reviews/id1528908188",
+      "version": "3.23.7",
+      "score": 2,
+      "title": "Confusing",
+      "text": "Tried to select rides within the service area but no rights available. it would be useful to have some colored areas on the map to let user know where roseville arrow and placer go available. Useless, Another government app that's super clutery. I am sure they paid top dollars to develop it. probably an uncle/vousin won the bid with very little oversight. Another example of waste of tax payers doolars.",
+      "url": "https://itunes.apple.com/us/review?id=6444727687&type=Purple%20Software",
+      "updated": "2024-05-05T13:54:45-07:00"
+    }
+  ]
+}
